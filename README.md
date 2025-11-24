@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Omagu Emmanuel Ushie**
+# 👋 Hi there, I'm **Emmanuel Ushie Omagu**
 
 💻 **Software Engineer | Backend & Web Developer**  
 🌍 Building digital solutions with **Python**, **Django**, **FastApi** and modern web technologies.  
