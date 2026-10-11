@@ -1,45 +1,41 @@
-# 👋 Hi there, I'm **Emmanuel Ushie Omagu**
+# Emmanuel Omagu — Backend & API Engineer
 
-💻 **Software Engineer | Backend & Web Developer**  
-🌍 Building digital solutions with **Python**, **Django**, **FastApi** and modern web technologies.  
-🚀 Passionate about turning ideas into clean, scalable, and impactful code.
+I design and build modular RESTful APIs, relational data schemas, and automated processing pipelines using Python, FastAPI, Flask, Django, and SQL.
 
 ---
 
-### 🌱 What I'm Currently Learning  
-- Backend Development with **Python**, **Django**, and **REST APIs**  
-- Exploring **DevOps**, **Cloud Deployment**, and **Web3** integration  
+### Core Technical Focus
+
+- **Backend Architecture & Frameworks:** FastAPI, Flask, Django, REST APIs, Microservices patterns
+- **Database & Data Modeling:** PostgreSQL, MySQL, SQLite, Redis (Indexing, Query Optimization, Normalized Schemas)
+- **Security & Lifecycle:** JWT & OAuth 2.0 Authentication, Session Management, Input Validation Middleware
+- **Tooling & Environments:** Docker, Git, Postman, Linux, GitHub Actions CI/CD
 
 ---
 
-### 🤝 Looking to Collaborate On  
-- **Web Applications**  
-- **Game Development**
-- **App Development**
-- **Open Source Projects** that make a difference  
+### Selected Engineering Highlights
+
+- **Remote Job Aggregator & API:** Automated ingestion pipeline consuming public job APIs into PostgreSQL with deduplication and multi-parameter querying utilities.
+- **Automated Examination (CBT) Engine:** Modular testing backend enforcing session timeout locks, anti-double-submission rules, and JWT auth workflows.
+- **AI Text Moderation Service:** Lightweight classification API featuring input payload validation, error middleware, and confidence score generation.
 
 ---
 
-### 📫 How to Reach Me  
-📧 **Email:** [omagujr8@gmail.com](mailto:omagujr8@gmail.com)  
-🐦 **Twitter/X:** [@omagujr](https://twitter.com/omagujr)  
+### Collaboration & Open Source
 
----
-
-### ⚡ Fun Fact  
-I’m a passionate learner who believes in **building the future, one line of code at a time.**  
-
----
-
+I actively look to contribute to open-source tools, backend libraries, and scalable systems.
+- **Areas open for collaboration:** Python backend services, API performance optimization, database schema refinement, and tooling integrations.
+- **Get in touch:** [Email](mailto:omagujr8@gmail.com) • [Twitter/X](https://twitter.com/omagujr) • Discussions / Issues
 ### 🧰 Languages & Tools  
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
 </div>
 
 
