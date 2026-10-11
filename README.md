@@ -25,7 +25,9 @@ I design and build modular RESTful APIs, relational data schemas, and automated 
 
 I actively look to contribute to open-source tools, backend libraries, and scalable systems.
 - **Areas open for collaboration:** Python backend services, API performance optimization, database schema refinement, and tooling integrations.
-- **Get in touch:** [Email](mailto:omagujr8@gmail.com) • [Twitter/X](https://twitter.com/omagujr) • Discussions / Issues
+- **Get in touch:** [Email](mailto:omagujr8@gmail.com) • [Twitter/X](https://twitter.com/omagujr)
+---
+ 
 ### 🧰 Languages & Tools  
 
 <div align="center">
